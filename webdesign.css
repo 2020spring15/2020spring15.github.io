@@ -18,7 +18,13 @@ h5 {
 ul {
 	line-height: 10px
 }
-
+.title {
+	text-align: center;
+	padding-top: 30px;
+	border: 15px double #D2D2D2;
+	margin-top: 30px;
+	padding-bottom: 20px;
+}
 .aboutme {
 	padding-top: 35px
 }
