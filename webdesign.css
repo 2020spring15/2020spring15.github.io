@@ -15,6 +15,9 @@ h5 {
 	font-size: 15px;
 	padding-bottom: 35px;
 }
+h4 {
+	letter-spacing: 1px
+}
 ul {
 	line-height: 10px
 }
