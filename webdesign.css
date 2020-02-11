@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body {
+	color: #FFFAFA;
+	background-color: #4C4C4C;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+h1, h2 {
+	color: #3CA1F8;
+	letter-spacing: 3px;
+	font-weight: 200;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+h5 {
+	font-weight: 100;
+	font-size: 15px;
+	padding-bottom: 35px;
+}
+ul {
+	line-height: 10px
+}
+.title {
+	text-align: center;
+	padding-top: 30px;
+	border: 15px double #D2D2D2;
+	margin-top: 30px;
+	padding-bottom: 20px;
+}
+.aboutme {
+	padding-top: 35px
+}
