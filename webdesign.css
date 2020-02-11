@@ -24,7 +24,7 @@ ul {
 .title {
 	text-align: center;
 	padding-top: 30px;
-	border: 15px double #D2D2D2;
+	border: 15px solid #D2D2D2;
 	margin-top: 30px;
 	padding-bottom: 20px;
 }
