@@ -2,9 +2,6 @@
 body {
 	color:#32A6B6	
 }
-.italics {
-	font-style: italic;
-}
 .title {
 	font-size: 40px;
 	text-align: center;
@@ -39,4 +36,10 @@ span {
 	font-weight: 900;
 	color: #176388;
 	text-shadow: -6px 0px 5px #000000;
+}
+#italics {
+	font-size: 17px;
+	text-shadow: none;
+	color: #32A6B6;
+	font-style: italic;	
 }
