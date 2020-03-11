@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-.title {
+#title {
 	text-align: center;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	letter-spacing: 4px;
@@ -43,4 +43,6 @@ ul {
 }
 a {
 	color: #FFFFFF
+}
+
 }
