@@ -9,13 +9,13 @@
 #float {
 	float: right;
 }
-	
+nav {
+	text-align: center;
+}
 header {
 	padding: 40px;
 	font-size: 35px;
-}
-nav {
-	
+	text-align: center;
 }
 body {
 	color: #FFFFFF;
@@ -43,6 +43,4 @@ ul {
 }
 a {
 	color: #FFFFFF
-}
-
 }
