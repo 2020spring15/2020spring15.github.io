@@ -6,6 +6,9 @@
 	letter-spacing: 4px;
 	padding: 15px;
 }
+#float {
+	float: right;
+}
 	
 header {
 	padding: 40px;
