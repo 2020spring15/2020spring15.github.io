@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.title {
+  color: #1C749F;
+  font-size: 45px;
+  text-align: center;
+}
+ul {
+  line-height: 30px;
+}
