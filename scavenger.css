@@ -1,0 +1,29 @@
+@charset "UTF-8";
+.title {
+  color: #1C749F;
+  font-size: 45px;
+  text-align: center;
+}
+.info {
+  color: #1C749F;
+  text-align: center;
+  padding-top: 40px;
+}
+p {
+  text-align: left;
+  max-width: 1000px;
+  padding-top: 20px;
+  color: #808485;
+}
+h4 {
+  color: #1C749F;
+  text-align: left;
+  padding-top: 20px;
+}
+.questions {
+  text-align: left;
+}
+ol {
+  color: #808485;
+  line-height: 45px;
+}
