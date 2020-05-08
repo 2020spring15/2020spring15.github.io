@@ -3,7 +3,6 @@
 body {
   background: #68ADCA;
   color: #FFFFFF;
-  margin: 130px;
 }
 h1 {
   color: #1C749F;
@@ -17,7 +16,7 @@ ol {
 table {
   border: 2px solid #E0E6E8;
   background-color: #EEEEEE;
-  width: 100px;
+  width: 200px;
   text-align: center;
   border-collapse: collapse;
   
