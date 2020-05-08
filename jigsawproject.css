@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body {
+  background: #68ADCA;
+  color: #FFFFFF;
+}
+h1 {
+  color: #1C749F;
+  font-size: 60px;
+  text-align: center;
+}
+ol {
+  line-height: 30px;
+}
+
+table {
+  border: 2px solid #E0E6E8;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+table td, table th {
+  border: 2px solid #E0E6E8;
+  padding: 3px 2px;
+  color: #FFFFFF;
+}
+table td {
+  color: #000000;
+}
+table th {
+  background: #1FC607;
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-left: 2px solid #E0E6E8;
+  text-align: center;
+}
+
+caption {
+  font-size: 30px;
+  padding-bottom: 10px;
+}
