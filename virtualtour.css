@@ -7,7 +7,7 @@ body {
 	min-width: 250px;
 	max-width: 250px;
 	text-align: left;
-  padding-right: 275px;
+  padding-right: 400px;
   float: right;
 }
 header {
@@ -37,6 +37,6 @@ nav a {
   font-size: 17px;
 }
 img {
-  padding-left: 275px;
+  padding-left: 50px;
   padding-top: 20px;
 }
