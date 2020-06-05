@@ -25,6 +25,10 @@ h3 {
 #calloutHERE {
   padding-top: 20px;
 }
+#calloutQ {
+  min-width: 60px;
+  max-width:60px;
+}
 #title {
  padding-top: 20px; 
  padding-bottom: 20px;
